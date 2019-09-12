@@ -5,16 +5,43 @@
 </head>
 <body>
 <h1>Hey! New Lemon! Sign yourself Up!</h1>
-<!-- form action attribute is by deafault refreshing the place -->
-<form action="https://www.facebook.com" method="post">
-	<label for="email">Email Address: </label><input id="email" type="text" required></input><br>
-	<label for="password">Enter Password: </label><input id="password" type="password" required></input><br>
-	<label for="password1">Confirm Password: </label><input id="password1" type="password" required="true"></input><br>
-	<label for="date">Your Birthdate: </label><input id="date" type="date" placeholder="Birthdate" required="true"></input><br>
-	<label for="gender">Gender :</label><br>
-	<input class="gender" type="radio" name="g">Male</input><br>
-	<input class="gender" type="radio" name="g">Female</input><br>
-	<input type="submit" value="Register"></input>
-</form>
+<!-- form action attribute is by default refreshing the place -->
+	<form>
+		<label for="email">Email Address: </label>
+		<input id="email" type="text" required></input><br>
+		
+		<label for="password">Enter Password: </label>
+		<input id="password" type="password" required></input><br>
+		
+		<label for="password1">Confirm Password: </label>
+		<input id="password1" type="password" required="true"></input><br>
+		
+		<label for="birthday">Your Birthdate: </label>
+		<input id="birthday" type="date" placeholder="Birthdate" required="true"></input><br>
+		
+		<label for="color">Which color do you prefer? </label>
+		<select name="color">
+			<option value="Red">Red</option><!-- The value attribute's data will be sent to the process -->
+			<option>Green</option>
+			<option>White</option>
+			<option>Black</option>
+		</select>
+
+
+		<p>Gender :</p>
+		<input id="male" type="radio" name="g" value="male"></input>
+		<label for="male">Male</label><br>
+		
+		<input id="female" type="radio" name="g" value="female"></input>
+		<label for="female">Female</label><br>
+
+		<input id="other" type="radio" name="g" value="other"></input>
+		<label for="other">Other</label><br>
+		
+		<label for="comment">Your comment about US!</label><br>
+		<textarea rows="10" cols="40" id="comment"></textarea>
+		<br>
+		<input type="submit" value="Register"></input>
+	</form>
 </body>
 </html>
