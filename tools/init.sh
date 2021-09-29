@@ -62,7 +62,7 @@ init_files() {
     ## Ensure the gh-actions trigger branch
 
     _workflow=".github/workflows/${ACTIONS_WORKFLOW}"
-    _default_branch="$(git symbolic-ref refs/remotes/origin/master | sed 's@^refs/remotes/origin/@@')"
+    _default_branch="$(git symbolic-ref refs/remotes/origin/HEAD | sed 's@^refs/remotes/origin/@@')"
     _lineno="$(sed -n "/branches:/=" "$_workflow")"
 
     sed -i.$TEMP_SUFFIX "$((_lineno + 1))s/- .*/- ${_default_branch}/" "$_workflow"
