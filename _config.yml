@@ -18,9 +18,9 @@ timezone: Asia/Dhaka
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Why Blog                   # the main title
+title:  Blog                   # the main title
 
-tagline: Why should I study it?   # it will display as the sub-title
+tagline: Hello   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   During my graduation, I faced this multiple times.
@@ -60,7 +60,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 
 google_analytics:
-  id: '288445364'              # fill in your Google Analytics ID
+  id: 'G-XSZLGGZ043'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
