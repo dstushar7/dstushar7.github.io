@@ -18,14 +18,16 @@ timezone: Asia/Dhaka
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Noob's Den                       # the main title
+title: The Why Blog                   # the main title
 
-tagline: Personal Blog   # it will display as the sub-title
+tagline: Why should I study it?   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  During my graduation, I faced this multiple times.
+  I wondered about some subjects that why should I read it?
+  During the "Finding out why should I read it?" process,
+  I took some retakes too. Wish I had known earlier about the bigger picture of those subjects, 
+  so that I can study them with more interest.  
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://dstushar7.github.io'
@@ -33,8 +35,11 @@ url: 'https://dstushar7.github.io'
 github:
   username: dstushar7            # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
+facebook:
+  username: debu.tushar
+
 
 social:
   # Change to your full name.
@@ -43,11 +48,11 @@ social:
   email: u1504048@student.cuet.ac.bd             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/dstushar7       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/debu.tushar
+    - https://www.linkedin.com/in/dabobroto-sarkar
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -55,7 +60,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 
 google_analytics:
-  id: ''              # fill in your Google Analytics ID
+  id: '288445364'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
