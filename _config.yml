@@ -18,16 +18,12 @@ timezone: Asia/Dhaka
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title:  Blog                   # the main title
+title:  The Tech Guy               # the main title
 
-tagline: Hello   # it will display as the sub-title
+tagline: Personal Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  During my graduation, I faced this multiple times.
-  I wondered about some subjects that why should I read it?
-  During the "Finding out why should I read it?" process,
-  I took some retakes too. Wish I had known earlier about the bigger picture of those subjects, 
-  so that I can study them with more interest.  
+  This is my personal Blog. I love Science and Love explaining it to people like it's magic! Hope You enjoy my blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://dstushar7.github.io'
@@ -87,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images@0a003683c0c3ca549d12c309f9b3e03ea20981e5/commons/avatar.jpg'
+avatar: 'assets/img/favicons/android-chrome-512x512.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
