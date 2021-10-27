@@ -20,7 +20,7 @@ timezone: Asia/Dhaka
 
 title:  The Tech Guy               # the main title
 
-tagline: The web is what you made of it.  # it will display as the sub-title
+tagline: The web is what you make of it.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   This is my personal Blog. I love Science and Love explaining it to people like it's magic! Hope You enjoy my blog.
