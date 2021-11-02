@@ -1,5 +1,5 @@
 ---
-title: "How to Create a Zero Cost Blog for Dummies : Part 1"
+title: "How to Create a Zero Cost Blog for Dummies"
 author: Dabobroto Sarkar
 date: 2021-10-31 04:40:00 +0600
 categories: [Blogging, Tutorial]
