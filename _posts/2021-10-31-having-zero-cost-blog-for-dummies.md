@@ -4,12 +4,12 @@ author: Dabobroto Sarkar
 date: 2021-10-31 04:40:00 +0600
 categories: [Blogging, Tutorial]
 tags: [create blog,zero cost,tutorial,for dummies]
-pin: true
+pin: false
 ---
 When it comes to sharing your knowledge with others, blogging is considered as one of the best method. But, with blogging comes several challenges to be faced:
 1. Buying Domain & Hosting
-2. Designing the website with HTML & CSS (Or maybe Wordpress XD )
-3.  Writing and Uploading Posts (The Hardest Part XD)
+2. Designing the website with HTML & CSS (Or maybe Wordpress XD)
+3. Writing and Uploading Posts (The Hardest Part XD)
 
 The 3rd one is the hardest because I won't help you on that! But what I will help you with is the 1st and the 2nd one.
 
