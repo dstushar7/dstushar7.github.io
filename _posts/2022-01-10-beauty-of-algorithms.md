@@ -7,4 +7,4 @@ tags: [algorithm,python,implementation,bfs,dfs]
 render_with_liquid: false
 ---
 
-<p align = 'center'><b>This post will be updated continuosly starting from today! Stay Tuned!</p></b>
+<p align = 'center'><b>This post will be updated continuosly starting from today! Stay Tuned!
