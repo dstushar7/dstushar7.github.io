@@ -48,4 +48,4 @@ For dummies, all I can say is, do not back away from reading the documentation. 
 ### ~~2. Designing the website with HTML & CSS~~(Solved)
 Because in jekyll we don't design the pages. We just write a simple markdown file, the jekyll theme will generate the HTML & CSS files for us to show on the server. Hope you understood what I tried to explain here. 
 
-### <p align='center'>Happy Blogging!!!!<br>For any enqueries contact me and comment here!!</p>
+### Happy Blogging!!!! For any enqueries contact me or comment here!!
