@@ -15,7 +15,7 @@ The 3rd one is the hardest because I won't help you on that! But what I will hel
 
 ------------
 
-> ### Github! The Hatem Tai!
+> ## Github! The Hatem Tai!
 
 Well Well! Github is the solution of our first challenge. It let you host one static website for completely free. If you don't know what github is, It is a place where people share their codes. It is built for colaborative developments. You can find more information [here](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/ "here").
 > When signing up for github, you will set an username. If you open a repository with the name, `username.github.io`. BOOM! You got your free website hosted. As an example, my username is `dstushar7`. You came here by `dstushar7.github.io` 
@@ -30,7 +30,7 @@ We have solved our first challenge. Let's head onto the next one.
 ------------
 
 
-### Jekyll The Magician!
+## Jekyll The Magician!
 
 What is jekyll? Jekyll is a static site generator that will build static pages as coded. Jekyll is the most popular static site generator, largely due to its adoption by GitHub. It is written in Ruby. The most useful thing is, it generates the static pages from Markdown files(Textile and Liquid templates too). Editing a Markdown file is quite easy and takes less efforts then HTML(and designing with CSS).  The static pages are then served by a web server. Why we are talking about Jekyll is the engine behind Github. Github's co-founder Tom Preston-Werner is the designer of Jekyll.  More information about the history and purpose of [jekyll can be found here](https://en.wikipedia.org/wiki/Jekyll_(software)) 
 
@@ -48,4 +48,4 @@ For dummies, all I can say is, do not back away from reading the documentation. 
 ### ~~2. Designing the website with HTML & CSS~~(Solved)
 Because in jekyll we don't design the pages. We just write a simple markdown file, the jekyll theme will generate the HTML & CSS files for us to show on the server. Hope you understood what I tried to explain here. 
 
-### Happy Blogging!!!! For any enqueries contact me or comment here!!
+# Happy Blogging!!!! For any enqueries contact me or comment here!!
