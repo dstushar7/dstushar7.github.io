@@ -20,12 +20,14 @@ An algorithm is a procedure or formula to solve a certain problem. Any thing we 
 
 Here's the procedure of making a cup of tea. We can say that this is the **algorithm** of making a cup of tea.
 
+Creating an algorithm is the first step to build some system. You can't build a system by trial/error method. It is more time and energy consuming process. So we learn how to design an **algorithm.**
+
 Here we will be studying in-depth about the analysis and design procedure of algorithms. We will see different algorithms and how we can implement them using python.
 
 **Table of Contents**
 
 [TOC]
 
-
+# Difference between a program and an algorithm
 
 
