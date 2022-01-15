@@ -13,9 +13,11 @@ When it comes to sharing your knowledge with others, blogging is considered as o
 
 The 3rd one is the hardest because I won't help you on that! But what I will help you with is the 1st and the 2nd one.
 
+**Table of Contents:**
+[TOC]
 ------------
 
-> ## Github! The Hatem Tai!
+## Github! The Hatem Tai!
 
 Well Well! Github is the solution of our first challenge. It let you host one static website for completely free. If you don't know what github is, It is a place where people share their codes. It is built for colaborative developments. You can find more information [here](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/ "here").
 > When signing up for github, you will set an username. If you open a repository with the name, `username.github.io`. BOOM! You got your free website hosted. As an example, my username is `dstushar7`. You came here by `dstushar7.github.io` 
@@ -23,7 +25,7 @@ Well Well! Github is the solution of our first challenge. It let you host one st
 If you upload an index.html file in this repository, that html file will be hosted on `username.github.io` as the homepage. 
 So, it means we have somewhere to host our static website, for free!
 
-### ~~1. Buying Domain & Hosting~~(Solved)
+### ~~Buying Domain & Hosting~~(Solved)
 
 We have solved our first challenge. Let's head onto the next one.
 
@@ -45,7 +47,7 @@ This website is also created by a jekyll theme named [chirpy](https://github.com
 ------------
 
 For dummies, all I can say is, do not back away from reading the documentation. If you learn how to read documentation, it'll save you hours of searching over google and watching tutorial videos. I wish you all the best as we solve our 2nd problem here.
-### ~~2. Designing the website with HTML & CSS~~(Solved)
+### ~~Designing the website with HTML & CSS~~(Solved)
 Because in jekyll we don't design the pages. We just write a simple markdown file, the jekyll theme will generate the HTML & CSS files for us to show on the server. Hope you understood what I tried to explain here. 
 
-# Happy Blogging!!!! For any enqueries contact me or comment here!!
+**Happy Blogging!!!! For any enqueries contact me or comment here!!**
