@@ -27,7 +27,39 @@ Here we will be studying in-depth about the analysis and design procedure of alg
 **Table of Contents**
 
 [TOC]
+# | Introduction to Algorithm |
 
-# Difference between a program and an algorithm
+ <ins>Difference between a program and an algorithm : </ins>
 
+Designing an algorithm and a program is different. From the below table you can easily understand these. 
+                    
+Algorithms  | Program
+------------- | -------------
+Designing a solution to a problem | Implementing the program
+Getting knowledge about the domain of the problem  | Doing the actual programming
+Solving the problem in any human language  | Programming language
+Independent of hardware & OS  | Dependent
+Analysis of algorithm   | Testing of the program
+
+Actually algorithm design is called the **priori analysis** and implementing the program is called **posterior testing.** The previous table can be rewritten by :
+
+Priori Analysis  | Posteriori Testing
+------------- | -------------
+Designing a solution to a problem | Implementing the program
+Getting knowledge about the domain of the problem  | Doing the actual programming
+Solving the problem in any human language  | Dependent on programming language
+Independent of hardware & OS  | Dependent
+Analysis of algorithm   | Testing of the program
+
+## | Characteristics of an Algorithm |
+
+There are few characteristics that all algorithms must have. These are :
+
+1. **Input** : An algorithm can take zero or more inputs to itself. That needs to be ensured.
+2. **Output** : An algorithm must generate at least one output. Just like an [UDF](https://en.wikipedia.org/wiki/User-defined_function) returns something inside.
+3. **Definiteness** : Every statement should be should be definite and exact. It must be clear enough to convey only one meaning.
+4. **Finiteness** : An algorithm must be finte. You can think of a server that keeps running for infinite. But an algorithm must not run infinitely. It must end at one point.
+5. **Effectiveness** : An algorithm shouldn't have any unnecessary steps that is not required to solve the problem you're trying to solve.
+
+We are bulging into algorithm's core basic concepts. After finishing the basics we will hop into the practical implementations.
 
