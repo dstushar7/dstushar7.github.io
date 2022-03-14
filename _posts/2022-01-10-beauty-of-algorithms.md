@@ -63,3 +63,5 @@ There are few characteristics that all algorithms must have. These are :
 
 We are bulging into algorithm's core basic concepts. After finishing the basics we will hop into the practical implementations.
 
+## | Complexity analysis of an Algorithm |
+
