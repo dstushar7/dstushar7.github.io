@@ -13,8 +13,7 @@ When it comes to sharing your knowledge with others, blogging is considered as o
 
 The 3rd one is the hardest because I won't help you on that! But what I will help you with is the 1st and the 2nd one.
 
-**Table of Contents:**
-[TOC]
+
 ------------
 
 ## Github! The Hatem Tai!

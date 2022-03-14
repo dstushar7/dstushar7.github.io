@@ -24,9 +24,7 @@ Creating an algorithm is the first step to build some system. You can't build a 
 
 Here we will be studying in-depth about the analysis and design procedure of algorithms. We will see different algorithms and how we can implement them using python.
 
-**Table of Contents**
 
-[TOC]
 # | Introduction to Algorithm |
 
  <ins>Difference between a program and an algorithm : </ins>

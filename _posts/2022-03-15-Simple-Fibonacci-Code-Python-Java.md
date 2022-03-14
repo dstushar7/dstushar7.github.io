@@ -5,6 +5,8 @@ date: 2022-03-14 02:40:00 +0600
 categories: [Coding, Algorithm]
 tags: [python,java,fibonacci,algorithms]
 render_with_liquid: true
+---
+
 In mathematics, the Fibonacci numbers form a sequence, the Fibonacci sequence, in which each number is the sum of the two preceding ones. The sequence commonly starts from 0 and 1, although some authors omit the initial terms and start the sequence from 1 and 1 or from 1 and 2. Starting from 0 and 1, the next few values in the sequence are:
 
    `0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, .......................`
@@ -24,7 +26,6 @@ To know more about fibonacci sequence and it's history,  [go here](https://en.wi
 
 **Now we will implement it in python and java :**
 
-[TOC]
 
 ### Python Implementation
 ```python
