@@ -1,81 +1,160 @@
 {
-  "about": {
-    "name": "Dabobroto Sarkar",
-    "title": "Software Engineer",
-    "tagline": ["Software Engineer", "Back End Developer", "AI Enthusiast"],
-    "description": "2+ years of experience in backend and AI development.",
-    "birthday": "20 November 1998",
-    "experience": "2 Years",
-    "email": "ds.tushar7@hotmail.com",
-    "address": "Dhaka, Bangladesh",
-    "freelance": "Available",
-    "profileImage": "img/profile.jpg",
-    "aboutImage": "img/about.jpeg",
-    "linkedin":"https://www.linkedin.com/in/dabobroto-sarkar/"
-  },
+    "about": {
+        "name": "Dabobroto Sarkar",
+        "title": "Software Engineer",
+        "tagline": [
+            "Software Engineer",
+            "Back End Developer",
+            "AI Enthusiast"
+        ],
+        "description": "2+ years of experience in backend and AI development.",
+        "birthday": "20 November 1998",
+        "experience": "2 Years",
+        "email": "ds.tushar7@hotmail.com",
+        "address": "Dhaka, Bangladesh",
+        "freelance": "Available",
+        "profileImage": "img/profile.jpg",
+        "aboutImage": "img/about.jpeg",
+        "linkedin": "https://www.linkedin.com/in/dabobroto-sarkar/"
+    },
     "skills": [
-        { "name": "Java", "level": 95, "color": "bg-danger", "icon": "fab fa-java" },
-        { "name": "Spring Framework", "level": 90, "color": "bg-danger", "icon": "fas fa-leaf" },
-        { "name": "Relational Database", "level": 90, "color": "bg-danger", "icon": "fas fa-database" },
-        { "name": "Python", "level": 90, "color": "bg-warning", "icon": "fab fa-python" },
-        { "name": "Javascript", "level": 80, "color": "bg-primary", "icon": "fab fa-js-square" },
-        { "name": "Angular JS", "level": 80, "color": "bg-dark", "icon": "fab fa-angular" }
+        {
+            "name": "Java",
+            "level": 95,
+            "color": "bg-danger",
+            "icon": "fab fa-java"
+        },
+        {
+            "name": "Spring Framework",
+            "level": 90,
+            "color": "bg-danger",
+            "icon": "fas fa-leaf"
+        },
+        {
+            "name": "Relational Database",
+            "level": 90,
+            "color": "bg-danger",
+            "icon": "fas fa-database"
+        },
+        {
+            "name": "Python",
+            "level": 90,
+            "color": "bg-warning",
+            "icon": "fab fa-python"
+        },
+        {
+            "name": "Javascript",
+            "level": 80,
+            "color": "bg-primary",
+            "icon": "fab fa-js-square"
+        },
+        {
+            "name": "Angular JS",
+            "level": 80,
+            "color": "bg-dark",
+            "icon": "fab fa-angular"
+        }
     ],
-  "education": [
-    {
-      "degree": "B.Sc in CSE",
-      "institution": "Chittagong University of Engineering & Technology",
-      "institutionLink": "https://www.cuet.ac.bd/",
-      "period": "2016 - 2022",
-      "description": "Studied core CS concepts, algorithms, data structures, and software design."
-    },
-    {
-      "degree": "HSC",
-      "institution": "Notre Dame College",
-      "institutionLink": "https://ndc.edu.bd/",
-      "period": "2013 - 2015",
-      "description": "Science major with mathematics and physics foundation."
-    },
-    {
-      "degree": "SSC",
-      "institution": "Dhaka Collegiate School",
-      "institutionLink": "https://en.wikipedia.org/wiki/Dhaka_Collegiate_School",
-      "period": "2004 - 2013",
-      "description": "Completed general education with focus on mathematics and sciences."
-    }
-  ],
-  "experience": [
-    {
-      "role": "Software Engineer",
-      "company": "Techno Next Software Limited",
-      "companyLink": "https://technonext.com/",
-      "parentCompany": "US-Bangla Group",
-      "parentCompanyLink": "https://www.usbassets.com/about/us-bangla-group/",
-      "period": "Aug 2025 - Present",
-      "description": "Worked on backend services in Java & Spring Boot. Built APIs and database schema for Robi group projects."
-    },
-    {
-      "role": "AI Model Trainer",
-      "company": "Scale AI",
-      "companyLink": "https://scale.com/",
-      "period": "Jun 2025 - Aug 2025",
-      "description": "Applied RLHF, prompt engineering, and systematic AI content evaluation to optimize and align language model outputs with rigorous quality standards."
-    },
-    {
-      "role": "Software Engineer",
-      "company": "RedDot Digital Limited",
-      "companyLink": "https://www.reddotdigitalit.com/",
-      "parentCompany": "Robi Axiata Limited",
-      "parentCompanyLink": "https://www.robi.com.bd/",
-      "period": "Sep 2022 - Jun 2025",
-      "description": "Worked on backend services in Java & Spring Boot. Built APIs and database schema for Robi group projects."
-    },
-    {
-      "role": "Software Engineer Intern",
-      "company": "BFIN IT Pvt Limited",
-      "companyLink": "https://bfinit.com/",
-      "period": "Aug 2019-Aug 2019",
-      "description": "Contributed to API development and wrote automation scripts using Python."
-    }
-  ]
+    "education": [
+        {
+            "degree": "B.Sc in CSE",
+            "institution": "Chittagong University of Engineering & Technology",
+            "institutionLink": "https://www.cuet.ac.bd/",
+            "period": "2016 - 2022",
+            "description": "Studied core CS concepts, algorithms, data structures, and software design."
+        },
+        {
+            "degree": "HSC",
+            "institution": "Notre Dame College",
+            "institutionLink": "https://ndc.edu.bd/",
+            "period": "2013 - 2015",
+            "description": "Science major with mathematics and physics foundation."
+        },
+        {
+            "degree": "SSC",
+            "institution": "Dhaka Collegiate School",
+            "institutionLink": "https://en.wikipedia.org/wiki/Dhaka_Collegiate_School",
+            "period": "2004 - 2013",
+            "description": "Completed general education with focus on mathematics and sciences."
+        }
+    ],
+    "experience": [
+        {
+            "role": "Software Engineer",
+            "company": "Techno Next Software Limited",
+            "companyLink": "https://technonext.com/",
+            "parentCompany": "US-Bangla Group",
+            "parentCompanyLink": "https://www.usbassets.com/about/us-bangla-group/",
+            "period": "Aug 2025 - Present",
+            "description": "Worked on backend services in Java & Spring Boot. Built APIs and database schema for Robi group projects."
+        },
+        {
+            "role": "AI Model Trainer",
+            "company": "Scale AI",
+            "companyLink": "https://scale.com/",
+            "period": "Jun 2025 - Aug 2025",
+            "description": "Applied RLHF, prompt engineering, and systematic AI content evaluation to optimize and align language model outputs with rigorous quality standards."
+        },
+        {
+            "role": "Software Engineer",
+            "company": "RedDot Digital Limited",
+            "companyLink": "https://www.reddotdigitalit.com/",
+            "parentCompany": "Robi Axiata Limited",
+            "parentCompanyLink": "https://www.robi.com.bd/",
+            "period": "Sep 2022 - Jun 2025",
+            "description": "Worked on backend services in Java & Spring Boot. Built APIs and database schema for Robi group projects."
+        },
+        {
+            "role": "Software Engineer Intern",
+            "company": "BFIN IT Pvt Limited",
+            "companyLink": "https://bfinit.com/",
+            "period": "Aug 2019-Aug 2019",
+            "description": "Contributed to API development and wrote automation scripts using Python."
+        }
+    ],
+    "services": [
+        {
+            "title": "Web Design",
+            "description": "Crafting responsive layouts with HTML5, CSS3, and Bootstrap.",
+            "icon": "fa-laptop"
+        },
+        {
+            "title": "Web Development",
+            "description": "Dynamic and scalable web apps with Java/Spring Boot.",
+            "icon": "fa-laptop-code"
+        },
+        {
+            "title": "AI Assistance",
+            "description": "Integrating LLMs into workflows for automation.",
+            "icon": "fas fa-robot"
+        }
+    ],
+    "portfolio": [
+        {
+            "category": "design",
+            "image": "img/portfolio-1.jpg"
+        },
+        {
+            "category": "development",
+            "image": "img/portfolio-2.jpg"
+        },
+        {
+            "category": "marketing",
+            "image": "img/portfolio-3.jpg"
+        }
+    ],
+    "testimonials": [
+        {
+            "quote": "Excellent work! Delivered fast and exactly as promised.",
+            "client": "John Doe",
+            "profession": "Entrepreneur",
+            "image": "img/testimonial-1.jpg"
+        },
+        {
+            "quote": "High-quality code and great collaboration.",
+            "client": "Jane Smith",
+            "profession": "CTO",
+            "image": "img/testimonial-2.jpg"
+        }
+    ]
 }
