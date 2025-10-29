@@ -161,7 +161,7 @@
             </div>
             <div class="row pb-3" id="services-container">
                 JS Injects Services -->
-            <!-- </div>
+    <!-- </div>
         </div>
     </div> -->
     <!-- Services End -->
@@ -215,8 +215,8 @@
                 <h1 class="position-absolute text-uppercase text-primary">Latest Blog</h1>
             </div>
             <div class="row" id="blog-container"> -->
-                <!-- JS injects blogs -->
-            <!-- </div>
+    <!-- JS injects blogs -->
+    <!-- </div>
         </div>
     </div> -->
     <!-- Blog End -->
@@ -233,35 +233,33 @@
                 <div class="col-lg-8">
                     <div class="contact-form text-center">
                         <div id="success"></div>
-                        <form name="sentMessage" id="contactForm" novalidate="novalidate">
+                        <form action="https://formspree.io/f/mrboqwva" method="POST" id="contactForm">
                             <div class="form-row">
-                                <div class="control-group col-sm-6">
-                                    <input type="text" class="form-control p-4" id="name" placeholder="Your Name"
-                                        required="required" data-validation-required-message="Please enter your name" />
-                                    <p class="help-block text-danger"></p>
+                                <div class="control-group col-sm-6 mb-3">
+                                    <input type="text" name="name" class="form-control p-4" id="name"
+                                        placeholder="Your Name" required />
                                 </div>
-                                <div class="control-group col-sm-6">
-                                    <input type="email" class="form-control p-4" id="email" placeholder="Your Email"
-                                        required="required"
-                                        data-validation-required-message="Please enter your email" />
-                                    <p class="help-block text-danger"></p>
+
+                                <div class="control-group col-sm-6 mb-3">
+                                    <input type="email" name="email" class="form-control p-4" id="email"
+                                        placeholder="Your Email" required />
                                 </div>
                             </div>
-                            <div class="control-group">
-                                <input type="text" class="form-control p-4" id="subject" placeholder="Subject"
-                                    required="required" data-validation-required-message="Please enter a subject" />
-                                <p class="help-block text-danger"></p>
+
+                            <div class="control-group mb-3">
+                                <input type="text" name="subject" class="form-control p-4" id="subject"
+                                    placeholder="Subject" required />
                             </div>
-                            <div class="control-group">
-                                <textarea class="form-control py-3 px-4" rows="5" id="message" placeholder="Message"
-                                    required="required"
-                                    data-validation-required-message="Please enter your message"></textarea>
-                                <p class="help-block text-danger"></p>
+
+                            <div class="control-group mb-4">
+                                <textarea class="form-control py-3 px-4" rows="5" name="message" id="message"
+                                    placeholder="Message" required></textarea>
                             </div>
-                            <div>
-                                <button class="btn btn-outline-primary" type="submit" id="sendMessageButton">Send
-                                    Message</button>
-                            </div>
+
+                            <!-- Formspree adds its own honeypot security field automatically -->
+                            <button class="btn btn-outline-primary" type="submit" id="sendMessageButton">
+                                Send Message
+                            </button>
                         </form>
                     </div>
                 </div>
@@ -290,7 +288,8 @@
                 <a class="text-white" href="#">Help</a>
             </div>
             <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#"></a>. All Rights Reserved.
-                Designed by <a class="text-white font-weight-bold" href="https://dstushar7.medium.com/">Dabobroto Sarkar</a>
+                Designed by <a class="text-white font-weight-bold" href="https://dstushar7.medium.com/">Dabobroto
+                    Sarkar</a>
             </p>
         </div>
     </div>
